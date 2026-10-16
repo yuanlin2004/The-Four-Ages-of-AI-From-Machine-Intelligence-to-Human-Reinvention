@@ -92,3 +92,6 @@
 .essay-hero .hero-credit strong {font-weight:780}
 [data-md-color-scheme="slate"] .hero-brand-wordmark span,[data-md-color-scheme="slate"] .essay-hero .hero-kicker {color:var(--roo-sky)}
 @media(max-width:620px){.essay-hero .brand-lockup .hero-logo{width:84px!important;height:84px!important}.hero-brand-wordmark strong{font-size:1.4rem}.hero-brand-wordmark span{font-size:.64rem}}
+
+/* Illustrative time window shown under each age heading */
+.age-window{font-size:.78rem;letter-spacing:.04em;opacity:.75;margin-top:-.4rem}

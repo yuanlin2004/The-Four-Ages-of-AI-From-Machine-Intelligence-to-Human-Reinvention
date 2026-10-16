@@ -7,115 +7,99 @@ hide:
 
 <div class="brand-lockup"><img src="assets/rooagi-logo.png" alt="RooAGI logo" class="hero-logo"><div class="hero-brand-wordmark"><strong>RooAGI</strong><span>ROOAGI CORPORATION PRESENTS</span></div></div>
 
-<p class="hero-kicker">AN ESSAY ON THE FUTURE OF INTELLIGENCE</p>
+<p class="hero-kicker">FROM MACHINE INTELLIGENCE TO HUMAN REINVENTION</p>
 
-<h1 class="hero-title">The Four Ages of <span class="title-shift"><span class="old-term">AI</span><span class="new-term">SI</span></span></h1>
+<h1 class="hero-title">The Four Ages of AI</h1>
 
-<p class="hero-shift-note">From Artificial Intelligence to <strong>Super Intelligence</strong></p>
+<p class="hero-subtitle">How Humanity Lost — and Rediscovered — Itself</p>
 
-<div class="ai-si-art" role="img" aria-label="Artificial Intelligence, AI, crossed out in pink and replaced by Super Intelligence, SI, in blue">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="100%" style="display:block;width:100%;max-width:760px;height:auto;background:#101d35;border-radius:18px;border:1px solid #38547c" aria-hidden="true">
-<defs>
-<linearGradient id="si-gradient" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#91d5fb"/><stop offset="1" stop-color="#397eae"/></linearGradient>
-<linearGradient id="si-bg" x1="0" x2="1"><stop stop-color="#1a294b"/><stop offset="1" stop-color="#111d31"/></linearGradient>
-</defs>
-<rect x="1" y="1" width="758" height="248" rx="18" fill="url(#si-bg)"/>
-<circle cx="670" cy="22" r="155" fill="#244873" opacity=".2"/>
-<path d="M35 58 H725 M35 194 H725" stroke="#79a7dc" stroke-opacity=".23"/>
-<text x="50" y="39" fill="#a9c9eb" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">THE INTELLIGENCE TRANSITION</text>
-<text x="88" y="164" fill="#9eafc7" font-family="Arial,sans-serif" font-weight="700" font-size="105">AI</text>
-<path d="M72 165 L248 97" fill="none" stroke="#e58bc5" stroke-width="11" stroke-linecap="round"/>
-<path d="M280 126 H440" stroke="#8da5c4" stroke-width="3" stroke-dasharray="9 9"/>
-<path d="M424 114 L444 126 L424 138" fill="none" stroke="#8da5c4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="469" y="164" fill="url(#si-gradient)" font-family="Arial,sans-serif" font-weight="800" font-size="112">SI</text>
-<text x="93" y="215" fill="#b1c0d5" font-family="Arial,sans-serif" font-size="14" letter-spacing="1">ARTIFICIAL INTELLIGENCE</text>
-<text x="467" y="215" fill="#96d6fb" font-family="Arial,sans-serif" font-size="14" letter-spacing="1">SUPER INTELLIGENCE</text>
-</svg>
-</div>
-
-
-<p class="hero-subtitle">From Machine Intelligence to Human Reinvention</p>
-
-<p class="hero-deck">An architectural, economic, and philosophical perspective on how artificial intelligence changes what we can build—and what it means to be human.</p>
+<p class="hero-deck">An essay on what happens to people, institutions and self-understanding when intelligence stops being scarce. Told through everyday lives, grounded in evidence, and open about what we do not know.</p>
 
 <div class="hero-credit"><strong>© 2026 RooAGI Corporation.</strong><span>All rights reserved.</span></div>
 
-[Read the first age →](age-1-alchemy.md){ .md-button .md-button--primary }
-[Explore the thesis](#four-ages-one-deeper-pattern){ .md-button }
+[Begin with The Mirror →](age-1-mirror.md){ .md-button .md-button--primary }
+[Why four human ages?](#why-four-human-ages){ .md-button }
 
 </div>
 
 <div class="age-grid" markdown>
 
 <div class="age-card age-one" markdown>
-**01 · BEFORE 2017**
+**AGE I · THE CRISIS OF AUTHENTICITY**
 
-### [The Age of Alchemy](age-1-alchemy.md)
+### [The Mirror](age-1-mirror.md)
 
-Architectural experimentation, specialized models, and the discovery of a reusable foundation.
+Machines learn to reproduce human expression. Then people begin to reshape themselves to be read, ranked and rewarded by machines.
 
-**The question:** Can machines learn?
+**The question:** What is real?
 </div>
 
 <div class="age-card age-two" markdown>
-**02 · 2017–PRESENT**
+**AGE II · THE EROSION OF AGENCY**
 
-### [The Age of Large Language Models](age-2-llms.md)
+### [The Surrender](age-2-surrender.md)
 
-Transformers, massively parallel computing, block-oriented execution, scaling and reasoning trajectories.
+People delegate everyday choices, then judgment itself. Life improves by every measure, while the habit of deciding quietly fades.
 
-**The question:** How far can intelligence scale?
+**The question:** Who decides?
 </div>
 
 <div class="age-card age-three" markdown>
-**03 · EMERGING**
+**AGE III · THE CRISIS OF PURPOSE**
 
-### [The Age of Agentic Computing](age-3-agentic-computing.md)
+### [The Irrelevance](age-3-irrelevance.md)
 
-Personal and cloud agents, AI-native hardware, generated software and the rebuilding of trust.
+Human skill stops being scarce in significant domains. Prosperity can rise while the link between usefulness and dignity breaks.
 
-**The question:** Who directs intelligent action?
+**The question:** Why do we matter?
 </div>
 
 <div class="age-card age-four" markdown>
-**04 · A TWENTY-YEAR HYPOTHESIS**
+**AGE IV · THE REINVENTION OF HUMANITY**
 
-### [The Age of Scientific Renaissance](age-4-scientific-renaissance.md)
+### [The Becoming](age-4-becoming.md)
 
-New mathematical abstractions, theory-driven experiments, quantum technologies and scientific discovery.
+When intelligence no longer distinguishes us, people and societies must decide what does, and who gets to decide.
 
-**The question:** What could intelligence discover?
+**The question:** What shall we become?
 </div>
 
 </div>
 
-## Four ages, one deeper pattern
+## Why four human ages?
 
-AI is often narrated as a race between ever-larger models. This essay offers a different account. Each major transition changes the relationship between **algorithms, compute, institutions and human judgment**.
+AI is usually narrated as a story about machines: bigger models, better benchmarks, more capable agents, perhaps one day superintelligence. That story is real, and this site keeps it, in a set of [technical companions](technical/index.md). But it leaves out the part that will matter most to most people.
 
-| Age | A capability becomes more accessible | A new constraint comes into focus |
-| --- | --- | --- |
-| Alchemy | Specialized learned behavior | Generalization and reusable architecture |
-| LLMs | Scalable, general-purpose model capability | Energy, data movement, inference reliability and adoption |
-| Agentic computing | Software generation and autonomous digital work | Authority, trusted execution and human agency |
-| Scientific renaissance | AI-assisted exploration of knowledge | Experimental evidence, physical feasibility and purpose |
+Human civilization has organized education, work, authority, status and personal worth around the **scarcity of human intellectual capability**. Writing well was rare, so writing was evidence of a mind. Judgment was hard-won, so it conferred authority. Expertise took decades, so it earned a living and a place in society.
+
+If sophisticated intelligence becomes widely reproducible and cheap to deploy, the deepest change may not be in what machines can do. It may be in what people believe makes them **authentic**, **autonomous**, **valuable** and **human**. This essay follows that change through four ages.
+
+| Age | Central disruption | Fundamental question | Key tension |
+| --- | --- | --- | --- |
+| **I · The Mirror** | Machines replicate human expression | What is real? | Authenticity |
+| **II · The Surrender** | People delegate decisions and judgment | Who decides? | Agency |
+| **III · The Irrelevance** | Human skills cease to be scarce in significant domains | Why do we matter? | Purpose, contribution, status |
+| **IV · The Becoming** | Human identities and institutions are reinvented | What shall we become? | Humanity and self-definition |
+
+The progression can be read two ways: as a social narrative, **imitation → dependence → displacement → reinvention**, or as a movement inward, **expression → judgment → contribution → identity**.
 
 <div class="pull-quote" markdown>
-The critical story is not simply that machines become more intelligent. It is that **intelligence changes what remains scarce**.
+The critical story is not simply that machines become more intelligent. It is that **intelligence stops being what makes us valuable, and we have to find out what does**.
 </div>
 
-### Technology is only half the story
+## How to read this essay
 
-As machine capability expands, the human questions become more consequential: authenticity, cognitive dependence, autonomy, economic meaning and responsibility for scientific progress. The [closing essay on human reinvention](human-reinvention.md) brings these threads together.
+Each age opens with a short scene from an ordinary life. The scenes are **invented and illustrative**; they show how reasonable individual choices can add up to collective consequences. Each chapter then widens to the institutions involved, explains the relevant technology only as far as needed, weighs the evidence and the strongest counterarguments, and ends with a question the essay does not pretend to answer.
 
-!!! info "On the time horizon"
-    The four ages overlap. Stage 2 is ongoing, Stage 3 is emerging, and Stage 4 is deliberately speculative. This is a framework for thinking—not a deterministic timeline.
+The essay tries to keep four kinds of claim apart: **observed trends** (with sources), **plausible extrapolations**, **imagined scenarios**, and **judgments about what ought to happen**. Where it is unclear which one a sentence is making, that is a flaw worth [reporting](https://github.com/RooAGI/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/issues/new).
 
-[Begin with the Age of Alchemy →](age-1-alchemy.md){ .md-button .md-button--primary }
+!!! info "On time and certainty"
+    The illustrative windows (I: 2017–2025; II: 2025–2035?; III: 2035–2050?; IV: 2050 and beyond?) are scenario labels, not forecasts. The ages overlap, may arrive in a different order, and will unfold very differently across countries, classes and cultures. Nothing here assumes that humanity has literally, universally or inevitably "lost itself". The subtitle is a provocation; the chapters are an argument.
 
+[Begin with Age I · The Mirror →](age-1-mirror.md){ .md-button .md-button--primary }
 
 ---
 
-## References and further reading
+## Technical companions and references
 
-All supporting research papers, scientific sources and additional reading are collected in one place: **[References and Further Reading →](references.md)**. Suggestions and counterarguments are welcome.
+The machine-side history of AI, from the Transformer transition and large-scale parallel computation to agentic systems and AI-assisted science, is preserved in the **[technical companions](technical/index.md)**. All sources are collected, by theme and type of evidence, in **[References and Further Reading →](references.md)**. Suggestions and counterarguments are welcome.

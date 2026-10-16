@@ -1,8 +1,11 @@
 <div class="article-brand"><img src="https://rooagi.github.io/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/assets/rooagi-logo.png" alt="RooAGI logo" width="52"><span>ROOAGI · THE FOUR AGES OF AI</span></div>
 
-# 01 · The Age of Alchemy
+# Technical companion · Architecture and the Transformer transition
 
 *Architectural experimentation and the search for a reusable foundation*
+
+!!! note "A technical companion to the essay"
+    This companion was originally the essay's first chapter, *The Age of Alchemy*. It explains how machines came to reproduce human expression so convincingly, which is the mechanism behind **[Age I · The Mirror](../age-1-mirror.md)**.
 
 Before the Transformer was published in 2017, much of deep learning looked like an experimental workshop. Different problems were approached using different architectural assumptions: CNNs for spatial structure, recurrent networks and LSTMs for temporal dependencies, encoder–decoder systems for translation, GANs for generative adversarial learning, and specialized reinforcement-learning methods for control.
 
@@ -32,13 +35,13 @@ The first great transition was not simply from one neural network to another. It
 
 This era also exposed a conceptual tension that persists. Machines began replicating human-associated capabilities: perception, classification, language processing and prediction. Success on these tasks does not by itself establish that a model experiences or understands the world in the human sense.
 
-What matters is the distinction between reproducing observable behavior and establishing the nature of the intelligence behind that behavior. The first age made imitation feasible; it did not settle the philosophical meaning of understanding.
+What matters is the distinction between reproducing observable behavior and establishing the nature of the intelligence behind that behavior. The pre-Transformer era made imitation feasible; it did not settle the philosophical meaning of understanding.
 
-**Next:** [The Age of Large Language Models →](age-2-llms.md)
+**Next companion:** [Scaling and parallel computation →](scaling-and-parallel-computation.md) · **Back to the essay:** [Age I · The Mirror](../age-1-mirror.md)
 
 
 ---
 
-**Research and context:** [References and Further Reading →](references.md)
+**Research and context:** [References and Further Reading →](../references.md)
 
 <div class="article-copyright">© 2026 RooAGI Corporation. All rights reserved.</div>

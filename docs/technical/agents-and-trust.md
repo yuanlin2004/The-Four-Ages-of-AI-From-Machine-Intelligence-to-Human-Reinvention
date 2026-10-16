@@ -1,10 +1,13 @@
 <div class="article-brand"><img src="https://rooagi.github.io/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/assets/rooagi-logo.png" alt="RooAGI logo" width="52"><span>ROOAGI · THE FOUR AGES OF AI</span></div>
 
-# 03 · The Age of Agentic Computing
+# Technical companion · Agents, software and trust
 
 *From application-centered software to distributed intelligence, trusted execution and human agency*
 
-The third age is not merely the addition of tool-calling agents to large language models. It is a broader redesign of computing around systems that can interpret objectives and act on behalf of people.
+!!! note "A technical companion to the essay"
+    This companion was originally the essay's third chapter, *The Age of Agentic Computing*. It describes the systems through which people may delegate decisions, the mechanism behind **[Age II · The Surrender](../age-2-surrender.md)**, and the economics of generated software that feed **[Age III · The Irrelevance](../age-3-irrelevance.md)**.
+
+Agentic computing is not merely the addition of tool-calling agents to large language models. It is a broader redesign of computing around systems that can interpret objectives and act on behalf of people.
 
 Traditional applications require users to understand predefined interfaces. An agent can instead accept an objective, decompose the work, invoke tools, manage state and verify results. Applications become resources and capabilities that intelligent systems coordinate.
 
@@ -52,13 +55,13 @@ There is a parallel economic question. Work provides income, but it also provide
 
 Human dignity is not reducible to labor-market productivity. Yet our institutions frequently behave as though the two were tightly linked.
 
-The third age is therefore a challenge to technical infrastructure **and** the institutions governing human agency.
+Agentic computing is therefore a challenge to technical infrastructure **and** the institutions governing human agency.
 
-**Next:** [The Age of Scientific Renaissance →](age-4-scientific-renaissance.md)
+**Next companion:** [AI for science →](ai-for-science.md) · **Back to the essay:** [Age II · The Surrender](../age-2-surrender.md)
 
 
 ---
 
-**Research and context:** [References and Further Reading →](references.md)
+**Research and context:** [References and Further Reading →](../references.md)
 
 <div class="article-copyright">© 2026 RooAGI Corporation. All rights reserved.</div>

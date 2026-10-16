@@ -1,8 +1,11 @@
 <div class="article-brand"><img src="https://rooagi.github.io/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/assets/rooagi-logo.png" alt="RooAGI logo" width="52"><span>ROOAGI · THE FOUR AGES OF AI</span></div>
 
-# 02 · The Age of Large Language Models
+# Technical companion · Scaling, parallel computation and inference
 
 *Transformer scaling, massively parallel computing and the emerging limits of model-centric intelligence*
+
+!!! note "A technical companion to the essay"
+    This companion was originally the essay's second chapter, *The Age of Large Language Models*. It explains why fluent, general-purpose machine expression became cheap enough to be everywhere, which underpins **[Age I · The Mirror](../age-1-mirror.md)** and **[Age II · The Surrender](../age-2-surrender.md)**.
 
 The rise of LLMs is often told as a story about parameters and datasets. The more consequential story is the **co-evolution of learning architecture and computing architecture**.
 
@@ -60,11 +63,11 @@ A world of fluent machine-generated writing raises questions of authorship and t
 
 Greater model intelligence does not automatically make its human user more discerning.
 
-**Next:** [The Age of Agentic Computing →](age-3-agentic-computing.md)
+**Next companion:** [Agents, software and trust →](agents-and-trust.md) · **Back to the essay:** [Age II · The Surrender](../age-2-surrender.md)
 
 
 ---
 
-**Research and context:** [References and Further Reading →](references.md)
+**Research and context:** [References and Further Reading →](../references.md)
 
 <div class="article-copyright">© 2026 RooAGI Corporation. All rights reserved.</div>

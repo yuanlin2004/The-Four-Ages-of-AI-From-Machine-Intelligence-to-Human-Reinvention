@@ -1,5 +1,5 @@
 site_name: The Four Ages of AI
-site_description: From Machine Intelligence to Human Reinvention
+site_description: How Humanity Lost — and Rediscovered — Itself. An essay on authenticity, agency, purpose and human reinvention in the age of AI.
 site_url: https://rooagi.github.io/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/
 repo_url: https://github.com/RooAGI/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention
 repo_name: RooAGI / The Four Ages of AI
@@ -33,6 +33,7 @@ theme:
     - search.highlight
     - search.suggest
     - content.action.edit
+    - navigation.indexes
 plugins:
   - search
 markdown_extensions:
@@ -48,9 +49,15 @@ extra_css:
   - stylesheets/extra.css
 nav:
   - Overview: index.md
-  - Age 1 · Alchemy: age-1-alchemy.md
-  - Age 2 · Large Language Models: age-2-llms.md
-  - Age 3 · Agentic Computing: age-3-agentic-computing.md
-  - Age 4 · Scientific Renaissance: age-4-scientific-renaissance.md
-  - Human Reinvention: human-reinvention.md
+  - Age I · The Mirror: age-1-mirror.md
+  - Age II · The Surrender: age-2-surrender.md
+  - Age III · The Irrelevance: age-3-irrelevance.md
+  - Age IV · The Becoming: age-4-becoming.md
+  - Synthesis · Human Reinvention: human-reinvention.md
+  - Technical companions:
+      - technical/index.md
+      - Architecture and the Transformer: technical/architecture-and-the-transformer.md
+      - Scaling and parallel computation: technical/scaling-and-parallel-computation.md
+      - Agents, software and trust: technical/agents-and-trust.md
+      - AI for science: technical/ai-for-science.md
   - References: references.md

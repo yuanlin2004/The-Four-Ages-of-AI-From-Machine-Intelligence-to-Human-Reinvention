@@ -1,10 +1,13 @@
 <div class="article-brand"><img src="https://rooagi.github.io/The-Four-Ages-of-AI-From-Machine-Intelligence-to-Human-Reinvention/assets/rooagi-logo.png" alt="RooAGI logo" width="52"><span>ROOAGI · THE FOUR AGES OF AI</span></div>
 
-# 04 · The Age of Scientific Renaissance
+# Technical companion · AI for science, mathematics and new computation
 
 *When machine intelligence may help develop new scientific foundations*
 
-The fourth age is a twenty-year possibility, not an established destination. Until now, AI has largely depended on mathematical and physical discoveries developed through human research. A future generation of AI may increasingly participate in developing those foundations themselves.
+!!! note "A technical companion to the essay"
+    This companion was originally the essay's fourth chapter, *The Age of Scientific Renaissance*. Machine-assisted discovery is one possible catalyst for **[Age IV · The Becoming](../age-4-becoming.md)**, not its definition.
+
+A machine-assisted scientific renaissance is a twenty-year possibility, not an established destination. Until now, AI has largely depended on mathematical and physical discoveries developed through human research. A future generation of AI may increasingly participate in developing those foundations themselves.
 
 ## From applying mathematics to discovering mathematics
 
@@ -44,13 +47,13 @@ If increasingly capable machines discover theories or mathematical structures fe
 
 But discovering what is possible does not confer the authority to decide what ought to be pursued. AI might identify a new source of energy; human communities still face questions about safety, distribution and acceptable consequences.
 
-In this age, humanity may become less exclusively responsible for producing knowledge while becoming more responsible for interpreting it and choosing how to use it.
+In such a world, humanity may become less exclusively responsible for producing knowledge while becoming more responsible for interpreting it and choosing how to use it.
 
-**Next:** [Human Reinvention →](human-reinvention.md)
+**Back to the essay:** [Age IV · The Becoming](../age-4-becoming.md) · [All technical companions](index.md)
 
 
 ---
 
-**Research and context:** [References and Further Reading →](references.md)
+**Research and context:** [References and Further Reading →](../references.md)
 
 <div class="article-copyright">© 2026 RooAGI Corporation. All rights reserved.</div>
